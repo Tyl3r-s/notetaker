@@ -1,4 +1,4 @@
-# Tyler Scott's Project Portfolio
+# Note Taker
 
 ## Purpose
 This application allows you to create, track, and delete notes
